@@ -1,0 +1,7 @@
+{
+  "name": "fba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
