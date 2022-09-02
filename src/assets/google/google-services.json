@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "934703316818",
+    "firebase_url": "https://student-zcu.firebaseio.com",
+    "project_id": "student-zcu",
+    "storage_bucket": "student-zcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934703316818:android:a410479e6024376536048b",
+        "android_client_info": {
+          "package_name": "com.tommylabs.portalzcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934703316818-cgm4qng5kkk90cokgo14unstam0nttdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlidJmcRvTb8xm2kzLM1UaZiE23YyA_lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934703316818-cgm4qng5kkk90cokgo14unstam0nttdq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "934703316818-gg16di94jk4td46opjal25468se00l7c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tommylabs.portalzcu",
+                "app_store_id": "1101698535"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2300822057563088~2051815980"
+    }
+  ],
+  "configuration_version": "1"
+}

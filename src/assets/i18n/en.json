@@ -1,0 +1,403 @@
+{
+  "OK": "Ok",
+  "CANCEL": "Cancel",
+  "EXIT_APP": "Are you sure you want to exit the app?",
+  "MENU": {
+    "PROFILE": "Profile",
+    "SETTINGS": "Settings",
+    "RATE": "Rate",
+    "ABOUT": "About",
+    "MAP": "ZČU Map",
+    "CALENDAR": "Event Calendar",
+    "CHECKLIST": "Checklist",
+    "ADVERTISEMENT": "Advertisement",
+    "NETWORK": {
+      "TITLE": "Connection",
+      "ONLINE": "Online",
+      "OFFLINE": "Offline"
+    },
+    "SCHEDULE": "Schedule",
+    "DIET": "Menu",
+    "EXAMS": "Exams",
+    "RESULTS": "Results",
+    "CHOOSE": "Ok",
+    "CLOSE": "Close"
+  },
+  "SCHEDULE": {
+    "TITLE": "Schedule",
+    "SETTINGS": "Settings",
+    "SETTINGS_YEAR": "Year",
+    "SEMESTER": "Semester",
+    "WINTER": "Winter",
+    "SUMMER": "Summer",
+    "YEAR": "Year",
+    "WEEK": "Week",
+    "ACTUAL_WEEK": "Actual Week",
+    "ODD": "Odd",
+    "EVEN": "Even",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "You not connected to the Internet",
+        "SUBTITLE": "To download the schedule and exams must be online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "An error occurred while downloading schedule and exams",
+        "BUTTON": "OK"
+      },
+      "RESULTS_FAILED": {
+        "TITLE": "An error occurred while downloading results",
+        "BUTTON": "OK"
+      }
+    },
+    "DAYS": {
+      "1": "Mo",
+      "2": "Tu",
+      "3": "We",
+      "4": "Th",
+      "5": "Fr",
+      "6": "Sa",
+      "0": "Su"
+    },
+    "FULLY_EMPTY": {
+      "TITLE": "No Schedule",
+      "CONTENT": "An error occurred while loading schedule or you don't have any schedule events"
+    },
+    "EMPTY": {
+      "TITLE": "For this semester aren't any schedule events",
+      "CONTENT": "Registr a subject or change semestr at the right top"
+    }
+  },
+  "SCHEDULE_DETAIL": {
+    "ROOM": "Room",
+    "TEACHER": "Teacher",
+    "STATUTE": "Statute",
+    "OCCUPATION": "Availability",
+    "TIME": "Time",
+    "TEACHING": "Lesson",
+    "STUDENTS_LIST": "Students List",
+    "SHOW": "Show",
+    "COURSEWARE": "Courseware"
+  },
+  "TEACHER_DETAIL": {
+    "TITLE": "Teachers Detail",
+    "NAME": "Name",
+    "EMAIL": "Email",
+    "DEPARTMENT": "Department",
+    "PHONE": "Phone",
+    "ERROR": "An Error Occured Please Try Agan Later.",
+    "ERROR_CONNECTION": "An error occurred while loading please check the Internet connection.",
+    "LOAD_FAILED": {
+      "TITLE": "An error occurred while downloading teacher detail",
+      "BUTTON": "OK"
+    }
+  },
+  "DIET": {
+    "TITLE": "Menu",
+    "CANTEEN": "Canteen",
+    "CHOOSE": "Canteen",
+    "MAIN_COURSE": "Main Meal",
+    "SOUP": "Soup",
+    "ALLERGENS": "Allergens",
+    "EMPTY": {
+      "TITLE": "Menu for the selected canteen is not available.",
+      "CONTENT": "This canteen is currently not cooking or try download data again.",
+      "UPDATE_DIET": "Download again"
+    },
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "You not connected to the Internet",
+        "SUBTITLE": "To download menu you must be online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Downloading menu failed.",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "EXAMS": {
+    "TITLE": "Exams",
+    "REGISTERED_EXAMS": "Registered Examinations",
+    "WINTER_SEMESTER": "Winter Semester",
+    "SUMMER_SEMESTER": "Summer Semester",
+    "REGISTRATION_BUTTON": "Registration for examinations",
+    "EMPTY_EXAMS": {
+      "TITLE": "This semester you don't have any examinations",
+      "CONTENT": "Register to examination or change semester at the right top."
+    },
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "You're not connected to the Internet",
+        "SUBTITLE": "To download exams dates you must be online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Downloading exams dates failed.",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "EVENTS": {
+    "TITLE": "Student's events",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "You're not connected to the Internet",
+        "SUBTITLE": "To download events you must be online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Downloading events failed.",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "EMAILS": {
+    "TITLE": "Email",
+    "DELETE": "Delete",
+    "MARK_AS_READ": "Mark Read",
+    "MARK_AS_UNREAD": "Mark Unread",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "You're not connected to the Internet",
+        "SUBTITLE": "To download emails you must be online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Downloading emails failed.",
+        "BUTTON": "OK"
+      },
+      "AUTHENTICATION_FAILED": "There was a problem connecting to your mailbox."
+    },
+    "EMPTY": {
+      "TITLE": "No emails to display",
+      "CONTENT": "Email box is empty or failed to retrieve emails."
+    }
+  },
+  "RESULTS": {
+    "TITLE": "Results",
+    "ATTEMPT": "Number of Attempts",
+    "EVALUATION": "Evaluation",
+    "PASSED": "Passed",
+    "EXAMINER": "Examiner",
+    "EMPTY": {
+      "TITLE": "No Results",
+      "CONTENT": "Register a subject or change semester at the right top."
+    },
+    "FULLY_EMPTY": {
+      "TITLE": "No Results",
+      "CONTENT": "An error occurred while loading or you haven't registered any subject yet."
+    }
+  },
+  "EXAMS_REGISTRATION": {
+    "TITLE": "Available Dates",
+    "ZS": "Winter Semester",
+    "LS": "Summer Semester",
+    "ZS i LS": "Winter and Summer",
+    "ROOM": "Room",
+    "REGISTRATION_UNTIL": "Registration until",
+    "WITHDRAWAL_UNTIL": "Withdrawal until",
+    "OCCUPANCY": "Occupancy",
+    "STUDENTS_LIST": "Students list",
+    "EXAMINER": "Examiner",
+    "REGISTER": "Register",
+    "WITHDRAW": "Withdraw",
+    "ERROR": {
+      "TITLE": "An error occurred",
+      "CONTENT": "Please try again later"
+    },
+    "EMPTY": {
+      "TITLE": "No valid examination dates were found",
+      "CONTENT": "No is not possible register for any examination"
+    },
+    "REGISTER_MESSAGES": {
+      "BUTTON": "OK",
+      "REGISTER": {
+        "SUCCESS": "Register for examination was successful.",
+        "ERROR": "An Error occurred."
+      },
+      "WITHDRAW": {
+        "SUCCESS": "Withdrawal for examination was successful.",
+        "ERROR": "An Error occurred."
+      }
+    }
+  },
+  "ABOUT": {
+    "TITLE": "About",
+    "VERSION": "Version",
+    "SHOW": "Show",
+    "PRIVACY_POLICY": "Terms of Use",
+    "PARTNERS": "Partners",
+    "REQUIREMENTS": "Requirements/Issues",
+    "REQUIREMENTS_TEXT": "For submitting a feature request or bug report please use email info@tommylabs.com"
+  },
+  "CHECKLIST": {
+    "TITLE": "Checklist"
+  },
+  "LOGIN": {
+    "TITLE": "Login",
+    "LOGIN": "Login",
+    "ORION": "Orion Login",
+    "PASSWORD": "Password",
+    "AGREEMENT": "I agree to",
+    "AGREEMENT_POLICY": "Terms of Use",
+    "ROLE": {
+      "TITLE": "Choose role"
+    },
+    "ERROR": {
+      "LOGINFAILED": {
+        "TITLE": "Login failed",
+        "SUBTITLE": "Check your credentials and try again!",
+        "BUTTON": "OK"
+      },
+      "LOGIN_ORION": {
+        "TITLE": "Wrong Orion Login",
+        "SUBTITLE": "Orion login doesn't exist enter another and try again!",
+        "BUTTON": "OK"
+      },
+      "LOGIN_PASSWORD": {
+        "TITLE": "Wrong Password",
+        "SUBTITLE": "Orion password for this account is wrong. Enter a correct one and try again!",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "PROFILE": {
+    "TITLE": "Profile",
+    "LOGOUT": "Logout",
+    "EMAIL": "Email",
+    "FACULTY": "Faculty",
+    "ROLE": "Role",
+    "CHOOSE_ROLE": "Choose Role",
+    "NAME": "Name",
+    "YEAR": "Year"
+  },
+  "STUDENTS_LIST": {
+    "TITLE": "Students List",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Not connected to the Internet",
+        "SUBTITLE": "To download students list you must be online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Downloading students list failed.",
+        "BUTTON": "OK"
+      },
+      "CARD": {
+        "TITLE": "An error occurred",
+        "CONTENT": "Please try again later"
+      }
+    },
+    "EMPTY": {
+      "TITLE": "No students",
+      "CONTENT": "No one has registered for this term yet."
+    }
+  },
+  "STUDENT_DETAIL": {
+    "TITLE": "Students Detail",
+    "NAME": "Name",
+    "FACULTY": "Faculty",
+    "SPECIALIZATION": "Specialization",
+    "YEAR": "Year",
+    "FORM_OF_STUDY": "Form of study",
+    "STATUTE": "Statute of subject",
+    "EMAIL": "Email",
+    "ERROR": "An Error Occured Please Try Agan Later.",
+    "LOAD_FAILED": {
+      "TITLE": "An error occurred while downloading student detail",
+      "BUTTON": "OK"
+    }
+  },
+  "SETTINGS": {
+    "TITLE": "Settings",
+    "UPDATE_DIET": "Update Diet",
+    "UPDATE_EMAIL": "Update Emails",
+    "UPDATE_EVENT": "Update Events",
+    "UPDATE_RESULTS": "Update Results",
+    "UPDATE_SCHEDULE": "Update Schedule",
+    "LANGUAGE": "Language",
+    "LANGUAGES": {
+      "ENGLISH": "English",
+      "CZECH": "Czech"
+    },
+    "MEAL_PRICE": "Meal price",
+    "PRICES": {
+      "STUDENT": "Student",
+      "EMPLOYEE": "Employee",
+      "EXTERNAL": "Ext"
+    },
+    "SHOW_ODD_EVEN": "Show odd/even week"
+  },
+  "PRIVACY_POLICY": {
+    "TITLE": "Terms of Use"
+  },
+  "LOADER": {
+    "WAITING": "Please Wait..."
+  },
+  "DAYS": {
+    "MONDAY": "Monday",
+    "TUESDAY": "Tuesday",
+    "WEDNESDAY": "Wednesday",
+    "THURSDAY": "Thursday",
+    "FRIDAY": "Friday",
+    "SATURDAY": "Saturday",
+    "SUNDAY": "Sunday"
+  },
+  "ERROR": {
+    "UNAUTHORIZED": {
+      "TITLE": "Wrong Credentials",
+      "SUBTITLE": "Failed to login with entered credentials. Log in again.",
+      "BUTTON": "OK"
+    },
+    "CONNECTION": {
+      "TITLE": "Not connected to the Internet",
+      "SUBTITLE": "Please check your Internet connection.",
+      "BUTTON": "OK"
+    }
+  },
+  "CHECKLIST_ITEM": {
+    "8": "Červenec-Srpen",
+    "8-1": "Zkontroluj si v Portálu své známky, máš vše správně zapsané?",
+    "8-2": "Nezapomeň ohodnotit kvalitu výuky! / portal.zcu.cz",
+    "8-3": "Kontroluj svůj e-mail i poštu, aby ti neunikla pozvánka na zápis či jiná důležitá informace.",
+    "9": "September",
+    "9-1": "JIS Card. Don’t forget arrange the JIS card ideally pair your JIS Card with the Pilsen Card to make full use of Pilsen’s public transit for less money.",
+    "9-2": "UWB Portal. Make sure, that you entered the correct mailing address, phone number and your bank account number into the Portal; apply for grants.",
+    "10": "October",
+    "10-1": "Social grant. Did you apply for a social grant on the Portal? If so, submit all related documentation on the ICC as soon as possible.",
+    "10-2": "Excursion to the library. Throughout October, you have the chance to see all branches of the University Library, tours are planned for Mondays and Wednesdays, from 10 am to 1 pm.",
+    "10-3": "Going abroad? In the first half of October, there is an additional Erasmus+ competition for internships summer semester 2020/2021 and also preliminary round of the competitIon INTER-20 (freemovers) for semester trips summer semester 2020/2021.",
+    "11": "November",
+    "11-1": "Check your e-mail, maybe matriculation is about you or maybe something important is written to you by a lecture.",
+    "11-2": "University vampire. Do a good deed and donate blood.",
+    "11-3": "Come to the meeting of the Scientific Council. November 18 is the rector's holiday and also a ceremonial meeting of the UWB Scientific Council, to which students are also cordially invited.",
+    "12": "December",
+    "12-1": "Freemovers? In the first half of December, there is a first round of the competition INTER-20, so-called freemovers, for internships from January to the end of 2021.",
+    "12-2": "Courseware. Go through the materials for individual subjects, prepare for the exams.",
+    "12-3": "Sign up for the exams",
+    "1": "January",
+    "1-1": "Check your grades on the Portal. Do you have everything correctly written?",
+    "1-2": "The payment date of grants. Do you have a bank account number written in the Portal? You better check it out, there is a    payment date in January",
+    "1-3": "Another chance to go abroad. The second round of the competition INTER-20, i.e. freemovers for semester trips winter semester 2021/2022, first round of competition Erasmus+ for internship in the acad year 2021/2022.",
+    "2": "February",
+    "2-1": "Teaching evaluation …it's worth it!",
+    "2-2": "Specifying enrolment for summer semester",
+    "2-3": "Apply for the GRAS! As part of the grant support for student activities (GRAS) you can apply for funding for your project, the first application deadline is February.",
+    "3": "March",
+    "3-1": "Do you already have a student ball ticket?",
+    "3-2": "Be culturally active! Our tip: Visit the One World film festival (Jeden svět)!",
+    "3-3": "Make an appointment in Kulturka or B-room. Or just chill out and have some coffee free there…",
+    "4": "April",
+    "4-1": "Do you speak English? Or Russian? Check out UJP courses - American Center US Point and also the Russian Center run a conversation club.",
+    "4-2": "Don’t forget to apply for a dorm accommodation for the next year.",
+    "4-3": "To school by push scooter? Just register.",
+    "5": "May",
+    "5-1": "Have you already confirmed your reservation for an accommodation in dormitories?",
+    "5-2": "Sign up for the exams!",
+    "5-3": "Come on an Exodus march with friends.",
+    "6": "June",
+    "6-1": "Teaching evaluation. Praise / criticize critically.",
+    "6-2": "Pre - enrolment for another academic year."
+  }
+}

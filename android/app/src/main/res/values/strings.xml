@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">fba</string>
-    <string name="title_activity_main">fba</string>
+    <string name="app_name">Student ZČU</string>
+    <string name="title_activity_main">Student ZČU</string>
     <string name="package_name">com.tommylabs.portalzcu</string>
     <string name="custom_url_scheme">com.tommylabs.portalzcu</string>
 </resources>

@@ -1,0 +1,403 @@
+{
+  "OK": "Ok",
+  "CANCEL": "Zavřít",
+  "EXIT_APP": "Opravdu chcete ukončit aplikaci?",
+  "MENU": {
+    "PROFILE": "Profil",
+    "SETTINGS": "Nastavení",
+    "RATE": "Ohodnotit",
+    "MAP": "Mapa ZČU",
+    "CALENDAR": "Kalendář akcí",
+    "CHECKLIST": "Checklist",
+    "ABOUT": "O Aplikaci",
+    "ADVERTISEMENT": "Reklama",
+    "NETWORK": {
+      "TITLE": "Připojení",
+      "ONLINE": "Online",
+      "OFFLINE": "Offline"
+    },
+    "SCHEDULE": "Rozvrh",
+    "DIET": "Jídelníček",
+    "EXAMS": "Zkoušky",
+    "RESULTS": "Výsledky",
+    "CHOOSE": "Vybrat",
+    "CLOSE": "Zavřít"
+  },
+  "SCHEDULE": {
+    "TITLE": "Rozvrh",
+    "SETTINGS": "Nastavení",
+    "SETTINGS_YEAR": "Rok",
+    "SEMESTER": "Semester",
+    "WINTER": "Zimní",
+    "SUMMER": "Letní",
+    "YEAR": "Rok",
+    "WEEK": "Týden",
+    "ACTUAL_WEEK": "Aktuální týden",
+    "ODD": "Lichý",
+    "EVEN": "Sudý",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Nejste připojeni k internetu",
+        "SUBTITLE": "Pro stažení rozvrhu a zkoušek je nutné být online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Stažení rozvrhu a zkoušek se nezdařilo",
+        "BUTTON": "OK"
+      },
+      "RESULTS_FAILED": {
+        "TITLE": "Stažení výsledků k předmětům se nezdařilo",
+        "BUTTON": "OK"
+      }
+    },
+    "DAYS": {
+      "1": "Po",
+      "2": "Út",
+      "3": "St",
+      "4": "Čt",
+      "5": "Pá",
+      "6": "So",
+      "0": "Ne"
+    },
+    "FULLY_EMPTY": {
+      "TITLE": "Žádné rozvrhové akce k zobrazení",
+      "CONTENT": "Nastala chyba při načítání rozvrhu nebo nemáš zapsány žádné rozvrhové akce"
+    },
+    "EMPTY": {
+      "TITLE": "Pro tento semestr nejsou k zobrazení žádné rozvrhové akce",
+      "CONTENT": "Zapiš si nějaký předmět nebo změn semestr vpravo nahoře."
+    }
+  },
+  "SCHEDULE_DETAIL": {
+    "ROOM": "Učebna",
+    "TEACHER": "Učitel",
+    "STATUTE": "Statut",
+    "OCCUPATION": "Obsazenost",
+    "TIME": "Čas",
+    "TEACHING": "Výuka",
+    "STUDENTS_LIST": "Seznam studentů",
+    "SHOW": "Zobrazit",
+    "COURSEWARE": "Courseware"
+  },
+  "TEACHER_DETAIL": {
+    "TITLE": "Detail učitele",
+    "NAME": "Jméno",
+    "EMAIL": "Email",
+    "DEPARTMENT": "Katedra",
+    "PHONE": "Telefon",
+    "ERROR": "Nastala chyba při načítání zkuste to prosím zachvíli znovu.",
+    "ERROR_CONNECTION": "Nastala chyba při načítání překontrolujte prosím připojení k internetu.",
+    "LOAD_FAILED": {
+      "TITLE": "Stažení detailu učitele se nezdařilo",
+      "BUTTON": "OK"
+    }
+  },
+  "DIET": {
+    "TITLE": "Jídelníček",
+    "CANTEEN": "Menza",
+    "CHOOSE": "Jídelna",
+    "MAIN_COURSE": "Hlavní jídlo",
+    "SOUP": "Polévka",
+    "ALLERGENS": "Alergeny",
+    "EMPTY": {
+      "TITLE": "Jídelníček pro zvolenou menzu není dostupný.",
+      "CONTENT": "V této menze se momentálně nevaří nebo zkuste jídelníček aktualizovat.",
+      "UPDATE_DIET": "Stáhnout znovu"
+    },
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Nejste připojeni k internetu",
+        "SUBTITLE": "Pro stažení jídelníčku je nutné být online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Stažení jídelníčku se nezdařilo.",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "EXAMS": {
+    "TITLE": "Zkoušky",
+    "REGISTERED_EXAMS": "Zapsané termíny",
+    "WINTER_SEMESTER": "Zimní semester",
+    "SUMMER_SEMESTER": "Letní semester",
+    "REGISTRATION_BUTTON": "Přihlásit se na zkoušku",
+    "EMPTY_EXAMS": {
+      "TITLE": "Žádné zkoušky",
+      "CONTENT": "Přihlaš se na zkoušku nebo změn semestr vpravo nahoře."
+    },
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Nejste připojeni k internetu",
+        "SUBTITLE": "Pro stažení zkouškových termínů je nutné být online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Stažení termínů se nezdařilo",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "EVENTS": {
+    "TITLE": "Studentské akce",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Nejste připojeni k internetu",
+        "SUBTITLE": "Pro stažení akcí je nutné být online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Stažení akcí se nezdařilo.",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "EMAILS": {
+    "TITLE": "Emaily",
+    "DELETE": "Smazat",
+    "MARK_AS_READ": "Jako přečtený",
+    "MARK_AS_UNREAD": "Jako nepřečtený",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Nejste připojeni k internetu",
+        "SUBTITLE": "Pro stažení emailů je nutné být online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Stažení emailů se nezdařilo.",
+        "BUTTON": "OK"
+      },
+      "AUTHENTICATION_FAILED": "Nastal problém s připojením do emailové schránky."
+    },
+    "EMPTY": {
+      "TITLE": "Žádné emaily nejsou k zobrazení",
+      "CONTENT": "Emailová schránka je prázdná nebo se emaily nepovedlo načíst."
+    }
+  },
+  "RESULTS": {
+    "TITLE": "Výsledky",
+    "ATTEMPT": "Počet pokusů",
+    "EVALUATION": "Hodnocení",
+    "PASSED": "Splnil",
+    "EXAMINER": "Zkoušející",
+    "EMPTY": {
+      "TITLE": "Žádné výsledky k zobrazení",
+      "CONTENT": "Zapiš si předmět nebo změn semestr vpravo nahoře."
+    },
+    "FULLY_EMPTY": {
+      "TITLE": "Žádné výsledky k zobrazení",
+      "CONTENT": "Nastala chyba při načítání nebo nemáš zapsány žádné rozvrhové akce."
+    }
+  },
+  "EXAMS_REGISTRATION": {
+    "TITLE": "Dostupné termíny",
+    "ZS": "Zimní semestr",
+    "LS": "Letní semestr",
+    "ZS i LS": "ZS i LS",
+    "ROOM": "Místnost",
+    "REGISTRATION_UNTIL": "Přihlášení do",
+    "WITHDRAWAL_UNTIL": "Odhlášení do",
+    "OCCUPANCY": "Obsazení",
+    "STUDENTS_LIST": "Seznam studentů",
+    "EXAMINER": "Zkoušející",
+    "REGISTER": "Zapsat",
+    "WITHDRAW": "Odepsat",
+    "ERROR": {
+      "TITLE": "Nastala chyba při načítání",
+      "CONTENT": "Opakujte prosím akci později a zkontrolujte připojení k internetu"
+    },
+    "EMPTY": {
+      "TITLE": "Nebyly vypsány žádné termíny",
+      "CONTENT": "Nyní není možné přihlásit se ke zkoušce."
+    },
+    "REGISTER_MESSAGES": {
+      "BUTTON": "OK",
+      "REGISTER": {
+        "SUCCESS": "Zapsání zkoušky proběhlo úspěšně.",
+        "ERROR": "Při zapisování zkoušky nastala chyba."
+      },
+      "WITHDRAW": {
+        "SUCCESS": "Odepsání zkoušky proběhlo úspěšně.",
+        "ERROR": "Při odepisování zkoušky nastala chyba."
+      }
+    }
+  },
+  "ABOUT": {
+    "TITLE": "O Aplikaci",
+    "SHOW": "Zobrazit",
+    "PRIVACY_POLICY": "Podmínky používání",
+    "VERSION": "Verze",
+    "PARTNERS": "Partneři",
+    "REQUIREMENTS": "Požadavky/Problémy",
+    "REQUIREMENTS_TEXT": "Pro nahlášení chyby nebo žádosti na dodělání nějaké nové funkcionality (nápadu) použijte prosím email"
+  },
+  "CHECKLIST": {
+    "TITLE": "Checklist"
+  },
+  "LOGIN": {
+    "TITLE": "Přihlášení",
+    "LOGIN": "Přihlásit",
+    "ORION": "Orion login",
+    "PASSWORD": "Heslo",
+    "AGREEMENT": "Souhlasím s",
+    "AGREEMENT_POLICY": "podmínkami používání",
+    "ROLE": {
+      "TITLE": "Vyberte roli"
+    },
+    "ERROR": {
+      "LOGINFAILED": {
+        "TITLE": "Přihlášení se nezdařilo",
+        "SUBTITLE": "Překontroluj svoje přihlašovací údaje a zkus to znovu!",
+        "BUTTON": "OK"
+      },
+      "LOGIN_ORION": {
+        "TITLE": "Špatný Orion Login",
+        "SUBTITLE": "Orion login neexistuje zadej jiný a zkus to znovu!",
+        "BUTTON": "OK"
+      },
+      "LOGIN_PASSWORD": {
+        "TITLE": "Špatné heslo",
+        "SUBTITLE": "Heslo k orion účtu je špatně zadej správný a zkus to znovu!",
+        "BUTTON": "OK"
+      }
+    }
+  },
+  "PROFILE": {
+    "TITLE": "Profil",
+    "LOGOUT": "Odhlásit",
+    "EMAIL": "Email",
+    "FACULTY": "Fakulta",
+    "ROLE": "Role",
+    "CHOOSE_ROLE": "Vyberte roli",
+    "NAME": "Jméno",
+    "YEAR": "Ročník"
+  },
+  "STUDENTS_LIST": {
+    "TITLE": "Seznam studentů",
+    "ERROR": {
+      "CONNECTION": {
+        "TITLE": "Nejste připojeni k internetu",
+        "SUBTITLE": "Pro načtení seznamu studentů je nutné být online!",
+        "BUTTON": "OK"
+      },
+      "LOAD_FAILED": {
+        "TITLE": "Stažení seznamu studentů se nezdařilo",
+        "BUTTON": "OK"
+      },
+      "CARD": {
+        "TITLE": "Nastala chyba při načítání",
+        "CONTENT": "Opakujte prosím akci později a zkontrolujte připojení k internetu"
+      }
+    },
+    "EMPTY": {
+      "TITLE": "Žádní studenti k zobrazení",
+      "CONTENT": "Na tento termín se zatím nikdo nepřihlásil."
+    }
+  },
+  "STUDENT_DETAIL": {
+    "TITLE": "Detail studenta",
+    "NAME": "Jméno",
+    "FACULTY": "Fakulta",
+    "SPECIALIZATION": "Obor",
+    "YEAR": "Ročník",
+    "FORM_OF_STUDY": "Forma studia",
+    "STATUTE": "Statut předmětu",
+    "EMAIL": "Email",
+    "ERROR": "Nastala chyba při načítání zkuste to prosím zachvíli znovu.",
+    "LOAD_FAILED": {
+      "TITLE": "Stažení detailu studenta se nezdařilo",
+      "BUTTON": "OK"
+    }
+  },
+  "SETTINGS": {
+    "TITLE": "Nastavení",
+    "UPDATE_DIET": "Aktualizovat Jídelníček",
+    "UPDATE_EMAIL": "Aktualizovat Emaily",
+    "UPDATE_EVENT": "Aktualizovat Akce",
+    "UPDATE_RESULTS": "Aktualizovat Známky",
+    "UPDATE_SCHEDULE": "Aktualizovat Rozvrh",
+    "LANGUAGE": "Jazyk",
+    "LANGUAGES": {
+      "ENGLISH": "Anglicky",
+      "CZECH": "Česky"
+    },
+    "MEAL_PRICE": "Ceny v menze",
+    "PRICES": {
+      "STUDENT": "Student",
+      "EMPLOYEE": "Zaměstnanec",
+      "EXTERNAL": "Ext"
+    },
+    "SHOW_ODD_EVEN": "Zobrazit lichý/sudý týden"
+  },
+  "PRIVACY_POLICY": {
+    "TITLE": "Podmínky použivání"
+  },
+  "LOADER": {
+    "WAITING": "Čekejte prosím..."
+  },
+  "DAYS": {
+    "MONDAY": "Pondělí",
+    "TUESDAY": "Úterý",
+    "WEDNESDAY": "Středa",
+    "THURSDAY": "Čtvrtek",
+    "FRIDAY": "Pátek",
+    "SATURDAY": "Sobota",
+    "SUNDAY": "Neděle"
+  },
+  "ERROR": {
+    "UNAUTHORIZED": {
+      "TITLE": "Špatné přihlašovací údaje",
+      "SUBTITLE": "Nepodařilo se přihlásit se zadanými přihlašovacími údaji. Přihlašte se znovu.",
+      "BUTTON": "OK"
+    },
+    "CONNECTION": {
+      "TITLE": "Nejste připojeni k internetu",
+      "SUBTITLE": "Zkontrolujte prosím připojení k internetu!",
+      "BUTTON": "OK"
+    }
+  },
+  "CHECKLIST_ITEM": {
+    "8": "Červenec-Srpen",
+    "8-1": "Zkontroluj si v Portálu své známky, máš vše správně zapsané?",
+    "8-2": "Nezapomeň ohodnotit kvalitu výuky! / portal.zcu.cz",
+    "8-3": "Kontroluj svůj e-mail i poštu, aby ti neunikla pozvánka na zápis či jiná důležitá informace.",
+    "9": "Září",
+    "9-1": "JIS karta (ideálně rovnou propojenou s Plzeňskou kartou, což ti umožní využívat městskou hromadnou dopravu v Plzni za méně peněz) / support.zcu.cz (záložka JIS karta)",
+    "9-2": "Portál ZČU (ujisti se, že jsi v Portálu uvedl správně svoji doručovací adresu, telefon a i číslo svého bankovního účtu; zažádej si o stipendia) / portal.zcu.cz",
+    "10": "Říjen",
+    "10-1": "Sociální stipendium (žádal jsi na Portálu o sociální stípko? pokud ano, odevzdej co nejdřív na IPC všechny související podklady v papírové verzi.)",
+    "10-2": "Exkurze po knihovně (po celý říjen máš šanci si prohlédnout všechny pobočky Univerzitní knihovny, prohlídky jsou plánované na pondělí a středy, časově od 10 a 13 h.)",
+    "10-3": "Výjezd do zahraničí? (v 1. pol. října bývá dodatečné výběrové řízení Erasmus+ pro stáže LS 2020/2021 a také předkolo výběrového řízení INTER-20, tj. freemovers pro celosemestrální výjezdy LS 2020/2021) / international.zcu.cz + fakultní web",
+    "11": "Listopad",
+    "11-1": "Webmail (zkontroluj si mail, možná se tě týká imatrikulace a možná ti něco důležité píše přednášející)",
+    "11-2": "Udělej dobrý skutek a věnuj krev s Univerzitním upírem! / FB @univerzitniupir",
+    "11-3": "18. 11. je rektorské volno a taky slavnostní zasedání vědecké rady ZČU (kam i studenti jsou srdečně zváni)",
+    "12": "Prosinec",
+    "12-1": "Freemovers? (v 1. pol. prosince probíhá 1. kolo výběrového řízení INTER-20, tzv. freemovers pro stáže od ledna do konce roku 2021)/ international.zcu.cz + fakultní web",
+    "12-2": "Courseware (projdi si materiály k jednotlivým předmětům, připravuj se na zkoušky)  / courseware.zcu.cz",
+    "12-3": "Zapiš se na zkoušky",
+    "1": "Leden",
+    "1-1": "Zkontroluj si v Portálu své známky, je všechno správně zapsané?",
+    "1-2": "Máš v Portálu zapsané číslo bankovního účtu? Raději si to ověř, v lednu je výplatní termín stipendií.",
+    "1-3": "Další šance vyjet na zkušenou (2. kolo výběrového řízení INTER-20, tj. freemovers pro celosemestrální výjezdy ZS 2021/2022, 1. kolo výběrového řízení Erasmus+ pro stáže v akademickém roce 2021/2022)/ international.zcu.cz + fakultní web",
+    "2": "Únor",
+    "2-1": "Hodnocení výuky (… má smysl!) / portal.zcu.cz",
+    "2-2": "Upřesňující zápis na letní semester / portal.zcu.cz",
+    "2-3": "„Podej si GRAS!“ (V rámci grantové podpory aktivit studentů (GRAS) můžeš na svůj projekt žádat o finanční prostředky, 1. deadline pro podání žádosti bývá v únoru.) / gras.zcu.cz",
+    "3": "Březen",
+    "3-1": "Je načase být akční! (náš tip: navštiv filmový festival Jeden svět!)",
+    "3-2": "Domluv si schůzku v Kulturce nebo B-roomu (nebo tam užívej klidu a kávy zdarma) / FB @kulturkazcu + @broomzcu",
+    "3-3": "Už máš lístky na Studentský ples ZČU? / FB @studentskypleszcu",
+    "4": "Duben",
+    "4-1": "Do you speak English? Nebo rusky? (Mrkni na kurzy UJP – Americké centrum US Point i Ruské centrum vedou konverzační klub) / ujp.zcu.cz",
+    "4-2": "Nezapomeň si podat žádost o ubytování na kolejích na příští rok! / portal.zcu.cz",
+    "4-3": "Do školy na koloběžce? Stačí se zaregistrovat. / scoobike.zcu.cz",
+    "5": "Květen",
+    "5-1": "Už jsi potvrdil svoji rezervaci ubytování na kolejích? / portal.zcu.cz",
+    "5-2": "Zapsal jsi se na zkoušky? / portal.zcu.cz",
+    "5-3": "Vydej se s kamarády na pochod Exodus! / exodus.cz",
+    "6": "Červen",
+    "6-1": "Hodnocení výuky v LS (pochval / kritizuj věcně) / portal.zcu.cz",
+    "6-2": "Předzápis na další akademický rok / portal.zcu.cz"
+  }
+}

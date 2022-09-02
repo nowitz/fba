@@ -1,0 +1,22 @@
+::ng-deep app-login-page {
+
+  .list-ios > .item-block:last-child, .list-ios > .item-wrapper:last-child .item-block {
+    border-bottom: none;
+  }
+
+  .list-ios > .item-block:first-child {
+    border-top: none;
+  }
+
+  .privacy-policy {
+    white-space: normal;
+    font-size: 1em;
+    padding-top: 10px;
+
+    .link {
+      text-decoration: underline;
+      color: var(--ion-color-primary);
+      white-space: normal;
+    }
+  }
+}

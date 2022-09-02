@@ -1,11 +1,12 @@
 {
-  "name": "fba",
-  "version": "0.0.1",
+  "name": "Student ZČU",
+  "version": "3.0.0",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "emulator": "ionic capacitor run android -l --host=0.0.0.0",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",

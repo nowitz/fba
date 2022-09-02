@@ -35,7 +35,15 @@
             "prefix": "app",
             "style": "camelCase"
           }
-        ]
+        ],
+        "max-len": [
+          "error",
+          {
+            "code": 300
+          }
+        ],
+        "@typescript-eslint/member-ordering": "off",
+        "@typescript-eslint/no-shadow": "off"
       }
     },
     {
